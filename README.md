@@ -25,3 +25,6 @@ I am a middle front-end developer. Main specialization is developing SPA user in
 
 ### My statistics:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evvlboro)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evvlboro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
