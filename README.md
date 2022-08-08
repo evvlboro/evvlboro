@@ -1,6 +1,6 @@
 ### Welcome to my profile! 👋
 
-I am a middle front-end developer. Main specialization is developing SPA user interfaces using such technologies as JavaScript and React with accompanying libraries. There are also skills in site layout according to the figma layout.
+I am a front-end developer. Main specialization is developing SPA user interfaces using such technologies as JavaScript and React with accompanying libraries. There are also skills in site layout according to the figma layout.
 
 ### My stack:
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
